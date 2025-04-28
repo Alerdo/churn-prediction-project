@@ -75,4 +75,4 @@ Test set (20 % hold-out, customer-grouped):
 ---
 
 ## 📬 Contact
-[LinkedIn – Alerdo Ballabani](https://www.linkedin.com/in/alerdo-ballabani-450a85283/) • alerdo.ballabani@example.com
+[LinkedIn – Alerdo Ballabani](https://www.linkedin.com/in/alerdo-ballabani-450a85283/) • alerdo23@gmail.com
